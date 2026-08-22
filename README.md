@@ -11,20 +11,15 @@
 
 깃허브에 올린 뒤에는 경로 대신 `owner/repo`를 쓴다.
 
+설치한 뒤 `/output-style` 에서 `자연스러운 한국어`를 고르면 켜진다.
+
 ## 들어 있는 것
 
-- **스킬 `natural-korean`** — 한국어를 쓰거나 고칠 때 자동으로 불러온다.
-- **명령어 `/polish-korean [파일|문장]`** — 지정한 글을 규칙대로 다듬는다. 인자가 없으면 방금 쓴 한국어 텍스트를 다듬는다.
-
-## 항상 켜두려면
-
-스킬은 필요할 때만 불러온다. 모든 답변에 규칙을 적용하려면 `CLAUDE.md`에 한 줄 넣는다.
-
-```
-한국어로 답할 때는 `natural-korean` 스킬을 먼저 읽고 그 규칙을 지킨다.
-```
+- **출력 스타일 `자연스러운 한국어`** — 켜두면 모든 답변에 규칙이 붙는다.
+  `keep-coding-instructions: true` 라서 코딩 지침은 그대로 두고 문체만 얹는다.
+- **명령어 `/polish-korean [파일|문장]`** — 스타일을 켜지 않은 상태에서도 지정한 글을 규칙대로 다듬는다.
+  인자가 없으면 방금 쓴 한국어 텍스트를 다듬는다.
 
 ## 규칙 고치기
 
-[skills/natural-korean/SKILL.md](skills/natural-korean/SKILL.md)를 고치면 된다.
-로컬 경로로 설치했으면 `/plugin` 에서 다시 불러온다.
+[output-styles/natural-korean.md](output-styles/natural-korean.md)를 고치면 된다.

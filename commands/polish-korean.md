@@ -3,7 +3,7 @@ description: 한국어 문체 규칙으로 글을 다듬는다
 argument-hint: [파일 경로 또는 다듬을 문장]
 ---
 
-`natural-korean` 스킬을 읽고, 그 규칙으로 아래 대상을 다듬어라.
+`${CLAUDE_PLUGIN_ROOT}/output-styles/natural-korean.md` 의 규칙으로 아래 대상을 다듬어라.
 
 대상: $ARGUMENTS
 

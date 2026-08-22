@@ -1,7 +1,9 @@
 ---
-name: natural-korean
-description: 한국어로 답하거나 한국어 문서·주석·커밋 메시지·PR 본문을 쓸 때 번역어투와 격언조를 걷어내고 쉬운 말로 쓰는 문체 규칙. 한국어 텍스트를 쓰거나 고칠 때, 한국어 문장이 어색하다는 지적을 받았을 때 읽는다.
+name: 자연스러운 한국어
+description: 번역어투와 격언조를 걷어내고 쉬운 말로 쓰는 한국어 문체
+keep-coding-instructions: true
 ---
+
 
 # 한국어 문체 규칙
 
