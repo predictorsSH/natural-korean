@@ -1,0 +1,15 @@
+{
+  "name": "natural-korean",
+  "description": "한국어 문체 플러그인 모음",
+  "owner": {
+    "name": "Sanghyun Kim",
+    "email": "sanghyun.kim@vivity.ai"
+  },
+  "plugins": [
+    {
+      "source": "./",
+      "name": "natural-korean",
+      "description": "번역어투와 격언조를 걷어내고 쉬운 말로 쓰는 한국어 문체 규칙"
+    }
+  ]
+}
