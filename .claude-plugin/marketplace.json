@@ -2,8 +2,7 @@
   "name": "natural-korean",
   "description": "한국어 문체 플러그인 모음",
   "owner": {
-    "name": "Sanghyun Kim",
-    "email": "sanghyun.kim@vivity.ai"
+    "name": "Sanghyun Kim"
   },
   "plugins": [
     {

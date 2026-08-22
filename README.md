@@ -5,11 +5,9 @@
 ## 설치
 
 ```
-/plugin marketplace add /Users/sanghyun/Projects/natural-korean
+/plugin marketplace add predictorsSH/natural-korean
 /plugin install natural-korean@natural-korean
 ```
-
-깃허브에 올린 뒤에는 경로 대신 `owner/repo`를 쓴다.
 
 설치한 뒤 `/output-style` 에서 `자연스러운 한국어`를 고르면 켜진다.
 
