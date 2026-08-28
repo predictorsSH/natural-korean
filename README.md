@@ -5,6 +5,8 @@
 출력 스타일 하나가 들어 있다. 켜두면 모든 답변에 규칙이 붙는다.
 `keep-coding-instructions: true` 라서 코딩 지침은 그대로 두고 문체만 얹는다.
 
+일부 규칙은 [fluent-korean](https://github.com/snflkd/fluent-korean) (MIT) 에서 가져와 다시 썼다.
+
 ## 설치
 
 아래 세 줄을 Claude Code 안에서 차례로 친다.
