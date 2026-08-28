@@ -1,7 +1,7 @@
 {
   "name": "natural-korean",
   "description": "번역어투와 격언조를 걷어내고 쉬운 말로 쓰는 한국어 문체 규칙",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "author": {
     "name": "Sanghyun Kim"
   },
